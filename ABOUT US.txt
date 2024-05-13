@@ -1,0 +1,33 @@
+ABOUT US :
+
+The Schedule-mate involves a remainder application with functionality of alarm embedded with day planner and a calendar in combination with a day predictor. 
+We help the user in planning his  schedule and remind them at the planned time or prior to it.
+It is a console application created as a part of our major graduate during the Under Graduation program(B-TECH) in the stream of CSE.
+We are a team of three members.
+
+The schedule-mate application accredits the user to opt for a selective preference which are
+1)Day predictor
+2)Monthly Calender
+3)Make/View a  To-do list
+4)A Reminder Alarm
+ This enables the user to plan or   complete their tasks without any truancy. 
+ In our current chaotic lives it may be used for a convenient completion of tasks according to the scheduled plan.
+We have our own organistaion/team name as SHM. For any queries you can also contact us through team mail
+
+******************************************************************************************************************************
+
+ORGANISATION DETAILS :
+
+NAME : SHM
+
+******************************************************************************************************************************
+ 
+TEAM MEMBERS : 
+
+1.) T.SAI SUSHANTH:
+2.) L.HARI CHARAN : 
+3.) S.MAYAN BRAHMAM : 
+
+
+
+
